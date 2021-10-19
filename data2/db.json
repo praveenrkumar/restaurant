@@ -1,0 +1,93 @@
+{ 
+    "pizzas":[
+
+    {
+      "id": 1,
+      "name": "pepper Barbecue Chicken",
+      "varients": ["small", "medium", "large"],
+      "prices": [
+        {
+          "small": 200,
+          "medium": 350,
+          "large": 400
+        }
+      ],
+      "category": "nonveg",
+      "image": "https://www.dominos.co.in/files/items/Pepper_Barbeque.jpg"
+    },
+    {
+      "id": 2,
+      "name": "non Veg Supreme",
+      "varients": ["small", "medium", "large"],
+      "prices": [
+        {
+          "small": 200,
+          "medium": 350,
+          "large": 400
+        }
+      ],
+      "category": "nonveg",
+      "image": "https://www.dominos.co.in/files/items/Non-Veg_Supreme.jpg"
+    },
+    {
+      "id": 3,
+      "name": "golden Corn Pizza",
+      "varients": ["small", "medium", "large"],
+      "prices": [
+        {
+          "small": 200,
+          "medium": 350,
+          "large": 400
+        }
+      ],
+      "category": "veg",
+      "image": "https://www.dominos.co.in/files/items/Deluxe_Veggie.jpg"
+    },
+    {
+      "id": 4,
+      "name": "jalapeno & Red Paprika Pizza",
+      "varients": ["small", "medium", "large"],
+      "prices": [
+        {
+          "small": 200,
+          "medium": 300,
+          "large": 420
+        }
+      ],
+      "category": "nonveg",
+      "image": "https://www.dominos.co.in/files/items/Non-Veg_Supreme.jpg"
+    },
+    {
+      "id": 5,
+      "name": "margerita",
+      "varients": ["small", "medium", "large"],
+      "prices": [
+        {
+          "small": 150,
+          "medium": 220,
+          "large": 300
+        }
+      ],
+      "category": "veg",
+      "image":
+        "https://berhampuriya.com/wp-content/uploads/2020/02/Paneer_Makhni-1.jpg"
+    },
+    {
+      "id": 6,
+      "name": "double Cheese Margherita Pizza",
+      "varients": ["small", "medium", "large"],
+      "prices": [
+        {
+          "small": 250,
+          "medium": 380,
+          "large": 500
+        }
+      ],
+      "category": "veg",
+      "image": "https://www.dominos.co.in/files/items/IndianTandooriPaneer.jpg"
+    }
+    
+
+  ]
+}
+  
